@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Laba6
+namespace Laba6.Models
 {
     using System;
     using System.Collections.Generic;

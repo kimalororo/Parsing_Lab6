@@ -1,6 +1,7 @@
 ﻿using AngleSharp;
 using AngleSharp.Dom;
 using System;
+using Laba6.Models;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
